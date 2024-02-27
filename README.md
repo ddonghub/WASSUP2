@@ -1,6 +1,6 @@
 <div align="center"> 
 
- ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=WASSUP%20기획자과정%202기&fontSize=70) 
+ ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=WASSUP%20기획자과정%202기&fontSize=70) 
 <h1> 𝘿𝙤𝙣𝙜𝙝𝙮𝙪𝙣'𝙨 𝙂𝙞𝙩𝙝𝙪𝙗😘  </h1>
 
 

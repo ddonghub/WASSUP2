@@ -1,14 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=WASSUP%20기획자과정%202기&fontSize=70) 
-<h1 align="center"> 𝘿𝙤𝙣𝙜𝙝𝙮𝙪𝙣'𝙨 𝙂𝙞𝙩𝙝𝙪𝙗😘  </h1>
-
 <div align="center"> 
+
+ ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=WASSUP%20기획자과정%202기&fontSize=70) 
+<h1> 𝘿𝙤𝙣𝙜𝙝𝙮𝙪𝙣'𝙨 𝙂𝙞𝙩𝙝𝙪𝙗😘  </h1>
+
+
  
 
 
 
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddonghub%2FWASSUP2&count_bg=%2379C83D&title_bg=%23F18711&icon=rss.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-<h2> 𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙨 </h2>
+<h1> 𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙨 </h1>
 <p align="center">
 <a href="mailto:minddong59@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link" ></a>
 <a href="https://www.instagram.com/_ddongstagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ddongstagram"/></a>

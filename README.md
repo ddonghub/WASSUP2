@@ -14,6 +14,7 @@
 <p align="center">
 <a href="mailto:minddong59@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link" ></a>
 <a href="https://www.instagram.com/_ddongstagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ddongstagram"/></a>
+<a href="[https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BMN3kfyN3RQG7ulA%2FHQN%2BHQ%3D%3D](https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EB%AF%BC-8b91b9223/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
 </p>
 
 

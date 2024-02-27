@@ -5,14 +5,14 @@
  
 
 
- <a href="https://instagram.com/_ddongstagram">
+
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddonghub%2FWASSUP2&count_bg=%2379C83D&title_bg=%23F18711&icon=rss.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/_ddongstagram/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> 
-
+<h2> Contacts </h2>
+<p align="center">
+<a href="mailto:minddong59@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link" ></a>
+<a href="https://www.instagram.com/_ddongstagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ddongstagram"/></a>
+</p>
 
 
 

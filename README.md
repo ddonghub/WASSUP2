@@ -35,4 +35,5 @@
 
 
 
-<img src="https://media1.tenor.com/m/an3nlEsIMDkAAAAC/spongebob-hearts.gif" width="150%" height="150%" title="사랑해요~" alt="spongebobheart"></img>
+<img src="https://media1.tenor.com/m/an3nlEsIMDkAAAAC/spongebob-hearts.gif" width="55%" height="55%" title="사랑해요~" alt="spongebobheart"></img>
+ <img src="https://postfiles.pstatic.net/MjAyNDAyMjdfODUg/MDAxNzA5MDE1NzA4OTY5.b0odN6DfGYfnPeVbxuvysG2KW8igScj3YusKSRSvHVkg.fri6psgAguWgZTONlqwxIlD-Oms8eedAkRfWhpVSiugg.PNG/image.png?type=w580" width="30%" height="30%" title="ㅎㅇ" alt="spongebobheart"></img>

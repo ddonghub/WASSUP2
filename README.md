@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=WASSUP%20기획자과정%202기&fontSize=70) 
 <h1 align="center"> 민동현's Github😘  </h1>
 
 <div align="center"> 
@@ -12,7 +13,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=350&section=header&text=WASSUP%20기획자과정%202기&fontSize=70)
+
 
 
 </div>

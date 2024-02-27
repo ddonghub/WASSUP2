@@ -34,6 +34,8 @@
  눈팅은 서운합니다 😭  </code></pre>
 
 
-
+<p align="center">
 <img src="https://media1.tenor.com/m/an3nlEsIMDkAAAAC/spongebob-hearts.gif" width="55%" height="55%" title="사랑해요~" alt="spongebobheart"></img>
  <img src="https://postfiles.pstatic.net/MjAyNDAyMjdfODUg/MDAxNzA5MDE1NzA4OTY5.b0odN6DfGYfnPeVbxuvysG2KW8igScj3YusKSRSvHVkg.fri6psgAguWgZTONlqwxIlD-Oms8eedAkRfWhpVSiugg.PNG/image.png?type=w580" width="31%" height="31%" title="ㅎㅇ" alt="spongebobheart"></img>
+ </p>
+

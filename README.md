@@ -1,4 +1,4 @@
-<h1 align="center"> 반갑습니다 기어코 여길 찾보아오셨군요ㅎ  </h1>
+<h1 align="center"> 반갑습니다 기어코 여길 찾아오셨군요ㅎ  </h1>
 
 <div align="center"> 
  

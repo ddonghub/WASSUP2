@@ -164,3 +164,9 @@ dataset/
 
 # txt
 .txt
+
+#sample
+sample/
+
+#output
+output/
